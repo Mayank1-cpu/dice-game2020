@@ -1,0 +1,30 @@
+
+body {
+    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Lato;
+    font-weight: 300;
+    position: relative;
+    height: 100vh;
+    color: #555;
+    overflow-y: hidden;
+}
+
+.rule-div{
+  background-color: #eeeeee;
+  margin: 120px 100px;
+  margin-bottom: 100px;
+  padding: 0px 80px ;
+}
+.main-rule-heading{
+  text-align: center;
+  color: #900c3f;
+  padding-top: 60px;
+}
+.rules{
+padding:60px  40px 100px;
+line-height: 2;
+font-size: 1.5rem;
+color:#eb4d4d;
+}
